@@ -14,8 +14,8 @@ Parallax is an AI-powered teacher intelligence platform that helps educators con
 ## Links
 
 - Code repository: https://github.com/minugana07/Parallax
-- Demo video: ADD YOUR PUBLIC VIDEO LINK
-- Slides: ADD YOUR PUBLIC GOOGLE SLIDES LINK
+- Demo video: https://docs.google.com/spreadsheets/d/1ZRNGUhtoBj85TOeCuPXqLQPDPn1PGIAwZ_QtZsFKjyk/edit?usp=sharing
+- Slides: https://docs.google.com/presentation/d/10s1Vc7Lo0Gn6u0rlVQQncRMB-oedH9AN/edit?usp=sharing&ouid=111228048297231932243&rtpof=true&sd=true
 - Deployed URL (optional): N/A
 
 ## Short answers
