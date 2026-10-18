@@ -5,7 +5,7 @@
 - Team name: Parallax
 - Project name: Parallax: See Beyond the Score
 - College: RV College of Engineering
-- Team members: YOUR NAME
+- Team members: Minu Thillai Ganapathy, Nithish Gopal, Prakhyat Neelannavar, Yashas N M
 
 ## Project summary
 
